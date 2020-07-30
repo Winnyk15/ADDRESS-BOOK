@@ -14,6 +14,9 @@ All bugs are fixed
 *JAVASCRIPT
 ## Support and contact details
 Incase of any bug don't hesitate to reach out Email: kahendahwinnie@gmail.com
+
+Link to deployed site: https://winnyk15.github.io/ADDRESS-BOOK/
+
 ### License
 MIT
 
