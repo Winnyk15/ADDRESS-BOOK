@@ -15,6 +15,10 @@ Contact.prototype.fullName = function() {
   return this.firstName + " " + this.lastName;
 }
 
+Address.prototype.fullAddress = function() {
+  return this.street + ", " + this.city + ", " + this.county;
+}
+
 // user interface logic
 $(document).ready(function() {
 
