@@ -15,3 +15,5 @@ $(".contact").last().click(function() {
   $(".first-name").text(newContact.firstName);
   $(".last-name").text(newContact.lastName);
 });
+
+  $("ul#contacts").append("<li><span class='contact'>" + newContact.fullName + "</span></li>");
